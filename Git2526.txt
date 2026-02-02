@@ -23,9 +23,6 @@ Hector Serrano
 
 Carlos Manzano
 
-<<<<<<< HEAD
 Linea escrita por daniel llorens 
 
-=======
-- Bogdan Nemes
->>>>>>> f7811529860a7f66a37468ed110c50a3919b2711
+Bogdan Nemes
