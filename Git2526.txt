@@ -6,6 +6,8 @@ Linea modificada en 7
 Se añade linea en remoto
 Linea editada - Anton. E. (OTROS PUEDEN EDITAR TUS ARCHIVOS, PROFESOR)
 
+Bogdan Nemes
+
 Adrian Santacreu Perez
 
 Linea añadida por Jesús 
@@ -18,3 +20,4 @@ Thiago Sesseler
 Hector Serrano
 
 Carlos Manzano
+ 6c43a7b (Añado mi nombre)
