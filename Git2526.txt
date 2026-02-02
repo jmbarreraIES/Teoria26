@@ -1,4 +1,4 @@
 Archivo de prueba
 
 Se añade línea en local
-Linea modificada en remoto
+Linea modificada en 7
