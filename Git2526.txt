@@ -7,7 +7,6 @@ Linea local - JFMT
 Se añade linea en remoto
 Linea editada - Anton. E. (OTROS PUEDEN EDITAR TUS ARCHIVOS, PROFESOR)
 
-
 Mark Torralba Sandu
 
 Adrian Santacreu Perez
@@ -23,6 +22,8 @@ Thiago Sesseler
 Hector Serrano
 
 Carlos Manzano
+
+Jaime Perez Such
 
 Linea escrita por daniel llorens 
 
