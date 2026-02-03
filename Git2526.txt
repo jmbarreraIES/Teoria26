@@ -2,14 +2,18 @@ Archivo de prueba
 
 Se añade línea en local
 Linea modificada en 7
+Linea local - JFMT
 
 Se añade linea en remoto
 Linea editada - Anton. E. (OTROS PUEDEN EDITAR TUS ARCHIVOS, PROFESOR)
+
+Adrian Santacreu Perez
 
 
 
 Linea añadida por Jesús 
 
+Juan Fco Moñino
 
 Daniel LLorens
 
@@ -37,6 +41,6 @@ Hector Serrano
 
 
 
-
 Ian Alonso Alonso
+Carlos Manzano
 
